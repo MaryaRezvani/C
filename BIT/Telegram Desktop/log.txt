@@ -1,0 +1,35 @@
+[2021.05.22 09:42:46] Launched version: 2007004, install beta: [TRUE], alpha: 0, debug mode: [FALSE]
+[2021.05.22 09:42:46] Executable dir: C:/Users/user/Desktop/program/BIT/Telegram Desktop/, name: Telegram.exe
+[2021.05.22 09:42:46] Initial working dir: C:/Users/user/Desktop/program/BIT/Telegram Desktop/
+[2021.05.22 09:42:46] Working dir: C:/Users/user/Desktop/program/BIT/Telegram Desktop/
+[2021.05.22 09:42:46] Command line: C:\Users\user\Desktop\program\BIT\Telegram Desktop\Telegram.exe -autostart
+[2021.05.22 09:42:46] Executable path before check: C:/Users/user/Desktop/program/BIT/Telegram Desktop/Telegram.exe
+[2021.05.22 09:42:46] Logs started
+[2021.05.22 09:42:46] Connecting local socket to Global\00f9e8fa5b4ab39a1aba867f3574a4f9-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2021.05.22 09:42:46] This is the only instance of Telegram, starting server and app...
+[2021.05.22 09:42:46] Moved logging from 'C:/Users/user/Desktop/program/BIT/Telegram Desktop/log_start0.txt' to 'C:/Users/user/Desktop/program/BIT/Telegram Desktop/log.txt'!
+[2021.05.22 09:42:46] Opened 'C:/Users/user/Desktop/program/BIT/Telegram Desktop/tdata/working' for reading, the previous Telegram Desktop launch was not finished properly :( Crash log size: 0
+[2021.05.22 09:42:46] Primary screen DPI: 96
+[2021.05.22 09:42:46] Font: from ':/gui/fonts/DAOpenSansRegular.ttf' loaded 'DAOpenSansRegular'
+[2021.05.22 09:42:48] Font: from ':/gui/fonts/DAVazirRegular.ttf' loaded 'DAVazirRegular'
+[2021.05.22 09:42:49] Font: from ':/gui/fonts/DAOpenSansRegularItalic.ttf' loaded 'DAOpenSansRegularItalic'
+[2021.05.22 09:42:49] Font: from ':/gui/fonts/DAVazirRegular.ttf' loaded 'DAVazirRegular'
+[2021.05.22 09:42:49] Font: from ':/gui/fonts/DAOpenSansSemiboldAsBold.ttf' loaded 'DAOpenSansSemibold'
+[2021.05.22 09:42:49] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2021.05.22 09:42:50] Font: from ':/gui/fonts/DAOpenSansSemiboldItalicAsBold.ttf' loaded 'DAOpenSansSemiboldItalic'
+[2021.05.22 09:42:50] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2021.05.22 09:42:50] Font: from ':/gui/fonts/DAOpenSansSemiboldAsBold.ttf' loaded 'DAOpenSansSemibold'
+[2021.05.22 09:42:51] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2021.05.22 09:42:51] Font: from ':/gui/fonts/DAOpenSansSemiboldItalicAsBold.ttf' loaded 'DAOpenSansSemiboldItalic'
+[2021.05.22 09:42:51] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2021.05.22 09:42:53] Checking...
+[2021.05.22 09:42:53] Checking C:\Users\user\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\.
+[2021.05.22 09:42:53] Checking C:\Users\user\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\..
+[2021.05.22 09:42:53] Checking C:\Users\user\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\desktop.ini
+[2021.05.22 09:42:53] Checking C:\Users\user\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Firefox.lnk
+[2021.05.22 09:42:53] Checking C:\Users\user\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Google Chrome.lnk
+[2021.05.22 09:42:53] Checking C:\Users\user\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Internet Explorer.lnk
+[2021.05.22 09:42:53] Checking C:\Users\user\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Microsoft Edge.lnk
+[2021.05.22 09:42:53] Checking C:\Users\user\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Windows Explorer.lnk
+[2021.05.22 09:42:53] Checking C:\Users\user\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Windows Media Player.lnk
+[2021.05.22 09:42:53] Checking C:\Users\user\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Word 2013.lnk
